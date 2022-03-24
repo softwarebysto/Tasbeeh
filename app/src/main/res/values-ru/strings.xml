@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasbeeh</string>
+    <string name="assalomu_alaykum">Ассаляму Алейкум</string>
+    <string name="settings">Настройки</string>
+    <string name="home">Дом</string>
+    <string name="profile">Профиль</string>
+    <string name="alhamdulillah">Альхамдулиллах</string>
+    <string name="vaqt">Время:</string>
+    <string name="_00_00">00:00</string>
+    <string name="umumiy">Всего:</string>
+    <string name="_0">0</string>
+    <string name="slesh">/</string>
+    <string name="zikrcount">33</string>
+    <string name="tasbeeh">тасбих</string>
+    <string name="umumiy_sarflangan_vaqt">Всего потрачено времени:</string>
+    <string name="bir_kunda_o_rtacha_sarflangan_vaqt">Среднее время, проводимое в день:</string>
+    <string name="umumiy_aytilgan_zikrlar_soni">Общее количество прочитанных \nзикров:</string>
+    <string name="bir_kunda_o_rtacha_aytilgan_zikrlar_soni">Среднее количество зикров,\nчитаемых в день:</string>
+    <string name="number_of_days_the_application_has_been_used">Количество дней использования \nприложения:</string>
+    <string name="vaqtp">Время</string>
+    <string name="zikrlar">Зикры</string>
+    <string name="ismni_o_zgartirish">Переименовать</string>
+    <string name="ilovani_baham_ko_rish">Поделиться</string>
+    <string name="sozlamalar">Настройки</string>
+    <string name="zikr_sozlamalari">Настройка зикра</string>
+    <string name="tasbeh_ko_rinishi">Тасбих дизайн</string>
+    <string name="til_sozlamalari">Язык</string>
+    <string name="dastur_haqida">О приложении</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="Uzbek">Узбекский (лат.)</string>
+    <string name="English">Английский</string>
+    <string name="Russian">Русский</string>
+    <string name="Krill">Узбекский (Кирил)</string>
+    <string name="Do_you_want_to_Exit">Вы хотите выйти?</string>
+    <string name="Rename">Переименовать</string>
+    <string name="Write_your_name">Напишите свое имя</string>
+    <string name="Name">Имя</string>
+    <string name="don_t_save">Не сохранять</string>
+    <string name="save">Сохранять</string>
+    <string name="enter_your_name">Введите ваше имя</string>
+    <string name="noTextFound">Ввод имени обязателен для сохранения</string>
+    <string name="name_hint">Пожалуйста, введите Ваше имя</string>
+    <string name="saved_Successfully">Успешно сохранено</string>
+    <string name="moreThen25">Извините, вы не можете ввести более 25 букв</string>
+    <string name="naming">Имя</string>
+</resources>

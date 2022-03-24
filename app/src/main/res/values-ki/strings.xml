@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasbeeh</string>
+    <string name="assalomu_alaykum">Ассалому Алайкум</string>
+    <string name="settings">Созламалар</string>
+    <string name="home">Уй</string>
+    <string name="profile">Профил</string>
+    <string name="alhamdulillah">Алҳамдулиллаҳ</string>
+    <string name="vaqt">Вақт:</string>
+    <string name="_00_00">00:00</string>
+    <string name="umumiy">Умумий:</string>
+    <string name="_0">0</string>
+    <string name="slesh">/</string>
+    <string name="zikrcount">33</string>
+    <string name="tasbeeh">тасбеҳ</string>
+    <string name="umumiy_sarflangan_vaqt">Умумий сарфланган вақт:</string>
+    <string name="bir_kunda_o_rtacha_sarflangan_vaqt">Бир кунда ўртача \nсарфланган вақт:</string>
+    <string name="umumiy_aytilgan_zikrlar_soni">Умумий айтилган зикирлар сони:</string>
+    <string name="bir_kunda_o_rtacha_aytilgan_zikrlar_soni">Бир кунда ўртача айтилган \nзикирлар сони:</string>
+    <string name="number_of_days_the_application_has_been_used">Иловадан фойдаланилган \nкунлар сони:</string>
+    <string name="vaqtp">Вақт</string>
+    <string name="zikrlar">Зикрлар</string>
+    <string name="ismni_o_zgartirish">Исмни ўзгартириш</string>
+    <string name="ilovani_baham_ko_rish">Иловани баҳам кўриш</string>
+    <string name="sozlamalar">Созламалар</string>
+    <string name="zikr_sozlamalari">Зикир созламалари</string>
+    <string name="tasbeh_ko_rinishi">Тасбеҳ кўриниши</string>
+    <string name="til_sozlamalari">Тил созламалари</string>
+    <string name="dastur_haqida">Дастур ҳақида</string>
+    <string name="choose_language">Тилни Танланг</string>
+    <string name="Uzbek">Ўзбекча (лотин)</string>
+    <string name="English">Инглизча</string>
+    <string name="Russian">Русча</string>
+    <string name="Krill">Ўзбекча (кирил)</string>
+    <string name="Do_you_want_to_Exit">Чиқишни хоҳлайсизми?</string>
+    <string name="Rename">Исмни ўзгартириш</string>
+    <string name="Write_your_name">Исмингизни ёзинг</string>
+    <string name="Name">Исм</string>
+    <string name="don_t_save">Сақланмасин</string>
+    <string name="save">Сақлансин</string>
+    <string name="enter_your_name">Исмингизни киритинг</string>
+    <string name="name_hint">Илтимос, исмингизни киритинг</string>
+    <string name="noTextFound">Сақлаш учун исмни киритиш шарт</string>
+    <string name="saved_Successfully">Муваффақиятли сақланди</string>
+    <string name="moreThen25">Кечирасиз, сиз 25 дан ортиқ ҳарф кирита олмайсиз</string>
+    <string name="naming">Исм</string>
+</resources>

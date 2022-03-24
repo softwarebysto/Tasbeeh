@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Tasbeeh</string>
+    <string name="assalomu_alaykum">Assalamu Alaikum</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="alhamdulillah">Alhamdulillah</string>
+    <string name="vaqt">Time:</string>
+    <string name="_00_00">00:00</string>
+    <string name="umumiy">Total:</string>
+    <string name="_0">0</string>
+    <string name="slesh">/</string>
+    <string name="zikrcount">33</string>
+    <string name="tasbeeh">tasbeeh</string>
+    <string name="umumiy_sarflangan_vaqt">Total time spent:</string>
+    <string name="bir_kunda_o_rtacha_sarflangan_vaqt">Average time spent per day:</string>
+    <string name="umumiy_aytilgan_zikrlar_soni">The total number of dhikrs recited:</string>
+    <string name="bir_kunda_o_rtacha_aytilgan_zikrlar_soni">The average number of dhikrs \nrecited per day:</string>
+    <string name="number_of_days_the_application_has_been_used">Number of days the application \nhas been used:</string>
+    <string name="vaqtp">Time</string>
+    <string name="zikrlar">Dhikrs</string>
+    <string name="ismni_o_zgartirish">Rename</string>
+    <string name="ilovani_baham_ko_rish">Share</string>
+    <string name="sozlamalar">Settings</string>
+    <string name="zikr_sozlamalari">Dhikr setting</string>
+    <string name="tasbeh_ko_rinishi">Tasbeeh design</string>
+    <string name="til_sozlamalari">Language</string>
+    <string name="dastur_haqida">About app</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="Uzbek">Uzbek (latin)</string>
+    <string name="English">English</string>
+    <string name="Russian">Russian</string>
+    <string name="Krill">Uzbek (kiril)</string>
+    <string name="Do_you_want_to_Exit">Do you want to Exit?</string>
+    <string name="Rename">Rename</string>
+    <string name="Name">Name</string>
+    <string name="Write_your_name">Write your name</string>
+    <string name="don_t_save">Don\'t save</string>
+    <string name="save">Save</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="noTextFound">Typing name is compulsory for saving</string>
+    <string name="name_hint">Please enter your name</string>
+    <string name="saved_Successfully">Saved successfully</string>
+    <string name="moreThen25">Sorry you can not enter more then 25 letters</string>
+    <string name="naming">Name</string>
+
+</resources>
